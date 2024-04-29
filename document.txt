@@ -1,0 +1,16 @@
+H Font: Arial, Color: Red, Size: 12
+e Font: Arial, Color: Red, Size: 12
+l Font: Arial, Color: Red, Size: 12
+l Font: Arial, Color: Red, Size: 12
+o Font: Calibri, Color: Blue, Size: 14
+W Font: Calibri, Color: Blue, Size: 14
+o Font: Calibri, Color: Blue, Size: 14
+r Font: Calibri, Color: Blue, Size: 14
+l Font: Verdana, Color: Black, Size: 16
+d Font: Verdana, Color: Black, Size: 16
+C Font: Verdana, Color: Black, Size: 16
+S Font: Verdana, Color: Black, Size: 16
+5 Font: Helvetica, Color: Green, Size: 18
+8 Font: Helvetica, Color: Green, Size: 18
+0 Font: Helvetica, Color: Green, Size: 18
+0 Font: Helvetica, Color: Green, Size: 18
