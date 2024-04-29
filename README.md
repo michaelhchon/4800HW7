@@ -10,8 +10,10 @@ This homework demonstrates the following structural design patters:
 - Proxy
 
 ## Contents for Flyweight
-- 
+- TextEditor.java
+- TextDriver.java
 
 ## Contents for Proxy
-- 
+- Song.java
+- SongDriver.java
 
