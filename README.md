@@ -12,6 +12,7 @@ This homework demonstrates the following structural design patters:
 ## Contents for Flyweight
 - TextEditor.java
 - TextDriver.java
+- document.txt (file to read/write)
 
 ## Contents for Proxy
 - Song.java
